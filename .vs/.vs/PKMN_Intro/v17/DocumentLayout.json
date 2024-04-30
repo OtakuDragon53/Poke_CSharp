@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Coding\\C#_Stuff\\PKMN_Intro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658EDEF8-3522-4BD7-B858-A08D872AC76B}|PKMN_Intro\\PKMN_Intro.csproj|f:\\coding\\c#_stuff\\pkmn_intro\\pkmn_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658EDEF8-3522-4BD7-B858-A08D872AC76B}|PKMN_Intro\\PKMN_Intro.csproj|solutionrelative:pkmn_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Coding\\C#_Stuff\\PKMN_Intro\\PKMN_Intro\\Program.cs",
+              "RelativeDocumentMoniker": "PKMN_Intro\\Program.cs",
+              "ToolTip": "F:\\Coding\\C#_Stuff\\PKMN_Intro\\PKMN_Intro\\Program.cs",
+              "RelativeToolTip": "PKMN_Intro\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAgwFEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:56:40.623Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
