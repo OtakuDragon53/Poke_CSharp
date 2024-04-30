@@ -1,0 +1,14 @@
+F:\Coding\C#_Stuff\PKMN_Intro\PKMN_Intro\bin\Debug\net8.0\PKMN_Intro.exe
+F:\Coding\C#_Stuff\PKMN_Intro\PKMN_Intro\bin\Debug\net8.0\PKMN_Intro.deps.json
+F:\Coding\C#_Stuff\PKMN_Intro\PKMN_Intro\bin\Debug\net8.0\PKMN_Intro.runtimeconfig.json
+F:\Coding\C#_Stuff\PKMN_Intro\PKMN_Intro\bin\Debug\net8.0\PKMN_Intro.dll
+F:\Coding\C#_Stuff\PKMN_Intro\PKMN_Intro\bin\Debug\net8.0\PKMN_Intro.pdb
+F:\Coding\C#_Stuff\PKMN_Intro\PKMN_Intro\obj\Debug\net8.0\PKMN_Intro.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding\C#_Stuff\PKMN_Intro\PKMN_Intro\obj\Debug\net8.0\PKMN_Intro.AssemblyInfoInputs.cache
+F:\Coding\C#_Stuff\PKMN_Intro\PKMN_Intro\obj\Debug\net8.0\PKMN_Intro.AssemblyInfo.cs
+F:\Coding\C#_Stuff\PKMN_Intro\PKMN_Intro\obj\Debug\net8.0\PKMN_Intro.csproj.CoreCompileInputs.cache
+F:\Coding\C#_Stuff\PKMN_Intro\PKMN_Intro\obj\Debug\net8.0\PKMN_Intro.dll
+F:\Coding\C#_Stuff\PKMN_Intro\PKMN_Intro\obj\Debug\net8.0\refint\PKMN_Intro.dll
+F:\Coding\C#_Stuff\PKMN_Intro\PKMN_Intro\obj\Debug\net8.0\PKMN_Intro.pdb
+F:\Coding\C#_Stuff\PKMN_Intro\PKMN_Intro\obj\Debug\net8.0\PKMN_Intro.genruntimeconfig.cache
+F:\Coding\C#_Stuff\PKMN_Intro\PKMN_Intro\obj\Debug\net8.0\ref\PKMN_Intro.dll
