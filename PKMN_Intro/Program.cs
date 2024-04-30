@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.ConstrainedExecution;
 
 namespace PKMN_Intro
 {
@@ -9,6 +10,7 @@ namespace PKMN_Intro
         public static void Main(string[] args)
         {
             // Variables
+            bool nameIsValid = false;
             int counter = 0;
             string name = null;
             string rivalname = null;
@@ -35,24 +37,45 @@ namespace PKMN_Intro
                 counter++;
 
                 if (counter == 6) {
-                    Console.WriteLine("\nOptions: Red, Blue, Ash, Custom_Name");
-                    Console.WriteLine("Please type the number of the option you'd like: ");
-                    string temp = Console.ReadLine();
-                    if (temp == "1") {
+                        Console.WriteLine("\nOptions: 1) Red, 2) Blue, 3) Ash, Custom_Name");
+                        Console.WriteLine("Please type the number of the option you'd like: ");
+                        string temp = Console.ReadLine();
+
+                        switch (temp){
+
+                        case "1":
                         name = "Red";
-                    }
-                    if (temp == "2")
-                    {
-                        name = "Blue";
-                    }
-                    if (temp == "3")
-                    {
-                        name = "Ash";
-                    }
-                    if (temp == "4") {
-                        Console.Write("Please type your name: ");
-                        name = Console.ReadLine();
-                    }
+                            break;
+
+
+                        case "2":
+                            name = "Blue";
+                            break;
+
+                        case "3":
+                            name = "Ash";
+                            break;
+
+                        case "4":
+                        while (nameIsValid == false)
+                        {
+                            Console.Write("Please type your name: ");
+                            name = Console.ReadLine(); // length == 0
+                            if (name.Length <= 0 || name.Length > 16)
+                            {
+                                Console.WriteLine("Invalid Try Again ");
+                            }
+                            else 
+                            {
+                                nameIsValid = true;
+                            }
+
+                        }
+                            break;
+                        }
+                    
+                    
+
                 }
 
                 else if (counter == 7) {
@@ -73,8 +96,20 @@ namespace PKMN_Intro
                         rivalname = "Gary";
                     }
                     if (temp2 == "4") {
-                        Console.Write("Please type your rival's name: ");
-                        rivalname = Console.ReadLine();
+                    while (nameIsValid == true) 
+                        {
+                            Console.Write("Please type your rival's name: ");
+                            rivalname = Console.ReadLine();
+                            if (rivalname.Length <= 0 || rivalname.Length > 16)
+                            {
+                                Console.WriteLine("Invalid Try Again ");
+                            }
+                            else
+                            {
+                                nameIsValid = false;
+                            }
+
+                        }
                     }
 
                 }
