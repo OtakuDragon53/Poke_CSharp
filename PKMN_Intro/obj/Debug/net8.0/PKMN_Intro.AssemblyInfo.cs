@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PKMN_Intro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48c17e86e3230eeb254de473db814eda1a8e1b86")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60afdfee319b961400643df4b3b17b9245e13678")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("PKMN_Intro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PKMN_Intro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

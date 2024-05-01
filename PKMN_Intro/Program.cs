@@ -11,6 +11,7 @@ namespace PKMN_Intro
         {
             // Variables
             bool nameIsValid = false;
+            bool rivalNameIsValid = false;
             int counter = 0;
             string name = null;
             string rivalname = null;
@@ -96,7 +97,7 @@ namespace PKMN_Intro
                         rivalname = "Gary";
                     }
                     if (temp2 == "4") {
-                    while (nameIsValid == true) 
+                    while (rivalNameIsValid == false) 
                         {
                             Console.Write("Please type your rival's name: ");
                             rivalname = Console.ReadLine();
@@ -106,7 +107,7 @@ namespace PKMN_Intro
                             }
                             else
                             {
-                                nameIsValid = false;
+                                rivalNameIsValid = true;
                             }
 
                         }
