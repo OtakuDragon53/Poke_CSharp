@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patri\\OneDrive\\Documents\\GitHub\\Poke_CSharp1\\PKMN_Intro\\PKMN_Intro.csproj": {}
+    "C:\\Users\\patri\\OneDrive\\Documents\\GitHub\\FinalPokCSharp\\PKMN_Intro\\PKMN_Intro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patri\\OneDrive\\Documents\\GitHub\\Poke_CSharp1\\PKMN_Intro\\PKMN_Intro.csproj": {
+    "C:\\Users\\patri\\OneDrive\\Documents\\GitHub\\FinalPokCSharp\\PKMN_Intro\\PKMN_Intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patri\\OneDrive\\Documents\\GitHub\\Poke_CSharp1\\PKMN_Intro\\PKMN_Intro.csproj",
+        "projectUniqueName": "C:\\Users\\patri\\OneDrive\\Documents\\GitHub\\FinalPokCSharp\\PKMN_Intro\\PKMN_Intro.csproj",
         "projectName": "PKMN_Intro",
-        "projectPath": "C:\\Users\\patri\\OneDrive\\Documents\\GitHub\\Poke_CSharp1\\PKMN_Intro\\PKMN_Intro.csproj",
+        "projectPath": "C:\\Users\\patri\\OneDrive\\Documents\\GitHub\\FinalPokCSharp\\PKMN_Intro\\PKMN_Intro.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patri\\OneDrive\\Documents\\GitHub\\Poke_CSharp1\\PKMN_Intro\\obj\\",
+        "outputPath": "C:\\Users\\patri\\OneDrive\\Documents\\GitHub\\FinalPokCSharp\\PKMN_Intro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
